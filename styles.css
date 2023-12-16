@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/72/84/basketball-seamless-pattern-background-outline-vector-37147284.jpg);
+    background-size: cover;
+}
+
+.tableaustyle{
+    display: block;
+    margin: auto;
+}
+ol{
+    background-color: rgba(0, 0, 0, 0.722);
+    text-decoration-color: white
+}
+h1{ 
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 100%;
+}
+li{
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
